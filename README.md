@@ -1,6 +1,6 @@
 ### Hey Folx 👋
 
-I'm Stacey, my pronouns are she/her. I am a Mom, Wife, Permaculture Enthusiast, 🏳️‍🌈 Queer AF 🏳️‍🌈, and stand united with trans & bipoc communities ✊ 🏳️‍⚧️ 🖤🤎 ✊! 
+I'm Stacey, my pronouns are she/her. I am a Mom, Wife, Permaculture Enthusiast, 🏳️‍🌈 Queer AF 🏳️‍🌈, and stand united with Trans & BIPOC communities ✊ 🏳️‍⚧️ 🖤🤎 ✊! 
 
 ### My Work Life:
 I'm currently a Community Manager at [Weaveworks](https://github.com/weaveworks) for open source projects like [Weave GitOps](https://github.com/weaveworks/weave-gitops) and CNCF [Flux](https://github.com/fluxcd/flux2). 
