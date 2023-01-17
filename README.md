@@ -13,7 +13,7 @@ Over the past four years I have helped organize and produce Weaveworks' [GitOps 
 - [GitOps Days 2020 (May 2020)](https://youtube.com/playlist?list=PL9lTuCFNLaD2NiNrdt7SaQjpYx_m37czS)
 
 💬 Chat with me:
-- [Weaveworks Slack](weave-community.slack.com]
+- [Weaveworks Slack]([weave-community.slack.com](https://slack.weave.works/)
 - [CNCF Slack](cloud-native.slack.com)
 - [Kubernetes Slack](kubernetes.slack.com)
 - Book some time on my [calendar](https://calendly.com/staceypotter).
