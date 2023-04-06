@@ -5,7 +5,7 @@ I'm Stacey, my pronouns are she/her. I am a Mom, Wife, Permaculture Enthusiast, 
 ### My Work Life:
 I'm currently a Community Manager at [Dynatrace](https://www.dynatrace.com/), working in the Open Source Program Office (OSPO) and on Open Source Projects like [OpenFeature](https://openfeature.dev/) and [Keptn](https://keptn.sh/). Previously I was a Community Manager at [Weaveworks](https://github.com/weaveworks) working on various open source projects, including [Flux](https://github.com/fluxcd/flux2). 
 
-Over the past four years I have helped organize and produce Weaveworks' [GitOps Days](www.gitopsdays.com) events as well as [Weave Online User Group](https://youtube.com/playlist?list=PL9lTuCFNLaD0wEsbqf6IrGCWvZIAIo9cW) sessions. Previous GitOps Days playlists are available for watching here:
+During my stint at Weaveowrks, I helped organize and produce [GitOps Days](www.gitopsdays.com) events as well as [Weave Online User Group](https://youtube.com/playlist?list=PL9lTuCFNLaD0wEsbqf6IrGCWvZIAIo9cW) sessions. Previous GitOps Days playlists are available for watching here:
 - [GitOps Days 2022 (Jun 2022)](https://youtube.com/playlist?list=PL9lTuCFNLaD0NVkR17tno4X6BkxsbZZfr)
 - [GitOps One-Stop Shop Event (Oct 2021)](https://youtube.com/playlist?list=PL9lTuCFNLaD0ogh8S9cYMZTkzzrTxjg1o)
 - [GitOps Days 2021 (Jun 2021)](https://www.youtube.com/playlist?list=PL9lTuCFNLaD3bglbKKia5ELAoutBupygT)
