@@ -3,7 +3,7 @@
 I'm Stacey, my pronouns are she/her. I am a Mom, Wife, Permaculture Enthusiast, 🏳️‍🌈 Queer AF 🏳️‍🌈, and stand united with Trans & BIPOC communities ✊ 🏳️‍⚧️ 🖤🤎 ✊! 
 
 ### My Work Life:
-I'm currently an Open Source Community Manager at [Stacklok](https://stacklok.com/), dedicated to growing our [minder](x) and [trusty](https://stacklok.com/trusty) communities. I also help out with [OpenGitOps](https://github.com/open-gitops) and GitOpsCon when I can. 
+I'm currently an Open Source Community Manager at [Stacklok](https://stacklok.com/), dedicated to growing our [minder](https://github.com/stacklok/minder) and [trusty](https://stacklok.com/trusty) communities. I also help out with [OpenGitOps](https://github.com/open-gitops) and GitOpsCon when I can. 
 
 Previously I was a Community Manager at [Weaveworks](https://github.com/weaveworks) working on various open source projects, including [Flux](https://github.com/fluxcd/flux2) & [Flagger](https://github.com/fluxcd/flagger). During my stint at Weaveowrks, I helped organize and produce [GitOps Days](www.gitopsdays.com) events as well as [Weave Online User Group](https://youtube.com/playlist?list=PL9lTuCFNLaD0wEsbqf6IrGCWvZIAIo9cW) sessions. Previous GitOps Days playlists are available for watching here:
 - [GitOps Days 2022 (Jun 2022)](https://youtube.com/playlist?list=PL9lTuCFNLaD0NVkR17tno4X6BkxsbZZfr)
