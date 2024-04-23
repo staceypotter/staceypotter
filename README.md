@@ -13,9 +13,10 @@ Previously I was a Community Manager at [Weaveworks](https://github.com/weavewor
 - [GitOps Days 2020 (May 2020)](https://youtube.com/playlist?list=PL9lTuCFNLaD2NiNrdt7SaQjpYx_m37czS)
 
 💬 Chat with me:
-- [Weaveworks Slack](https://slack.weave.works/)
+- [Stacklok Discord](https://discord.gg/stacklok)
 - [CNCF Slack](cloud-native.slack.com)
 - [Kubernetes Slack](kubernetes.slack.com)
+- [Weaveworks Slack](https://slack.weave.works/)
 - Book some time on my [calendar](https://calendly.com/staceypotter).
 
 <!--
