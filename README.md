@@ -16,8 +16,6 @@ Previously I was a Community Manager at [Weaveworks](https://github.com/weavewor
 - [Stacklok Discord](https://discord.gg/stacklok)
 - [CNCF Slack](cloud-native.slack.com)
 - [Kubernetes Slack](kubernetes.slack.com)
-- [Weaveworks Slack](https://slack.weave.works/)
-- Book some time on my [calendar](https://calendly.com/staceypotter).
 
 <!--
 **staceypotter/staceypotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
